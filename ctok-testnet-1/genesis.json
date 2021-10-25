@@ -52,10 +52,6 @@
             {
               "denom": "ctok",
               "amount": "300000000"
-            },
-            {
-              "denom": "ctok",
-              "amount": "100000000"
             }
           ]
         }
